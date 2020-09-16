@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HowzyourApp</string>
+    <string name="search_language">Search Language</string>
+    <string name="get_data">Get Data</string>
+    <string name="loading_please_wait">Loading, Please Wait...</string>
+    <string name="full_name">Full Name</string>
+    <string name="login">Login</string>
+    <string name="description">Description</string>
+    <string name="update_data">Update Data</string>
+
+
+
+</resources>
